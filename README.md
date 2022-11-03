@@ -3,6 +3,7 @@
 
 - 🔭 Hoje trabalho com infra
 - 🌱 Estudando Javascript
+- 🎓 Atualmente estou estudando no projeto "Explorer" da  Rocketseat.
 - 📫 Contacte-me no email: victorhcraposo@gmail.com
 
 <div align="center">
