@@ -2,9 +2,8 @@
 ## Olá! Eu sou o Victor Raposo
 
 - 🔭 Hoje trabalho com infraestrutura.
-- 🌱 Estudando Javascript, Angular e Java.
+- 🌱 Estudando Node e React.
 - 🎓 Atualmente estou estudando no projeto "Explorer" da  Rocketseat.
-- 🎓 Também participo do bootcamp de Java da empresa Atos. 
 - 🎓 Sou graduado em Sistemas para internet.
 - 📫 Contacte-me no email: victorhcraposo@gmail.com
 
