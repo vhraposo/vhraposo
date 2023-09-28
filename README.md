@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Victor Raposo
 
-- 🔭 Hoje trabalho com infraestrutura.
+- 🔭 Hoje trabalho como dev Trainee na Atos.
 - 🌱 Estudando Node e React.
 - 🎓 Atualmente estou estudando no projeto "Explorer" da  Rocketseat.
 - 🎓 Sou graduado em Sistemas para internet.
