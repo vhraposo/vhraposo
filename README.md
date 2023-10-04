@@ -9,12 +9,14 @@
 
     
           
+![vhraposo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhraposo&show_icons=true&theme=dracula)
 
-<div align="center">
-  <a href="https://github.com/vhraposo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vhraposo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhraposo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhraposo&_progress=true)
+
+
+
 
 ##
   
@@ -25,7 +27,12 @@
   <img align="center" alt="Victor-Ty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Vcitor-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      
+  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Victor-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+
+
+
 </div>
  
 <br>
