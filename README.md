@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hello,+my+name+is+Victor+Raposo;I'm+24+years+old;I'm+from+Londrina,+Brazil;I'm+an+Application+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=BD93F9&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hello,+my+name+is+Victor+Raposo;I'm+24+years+old;I'm+from+Londrina,+Brazil;I'm+an+Application+Developer)](https://git.io/typing-svg)
 
 <div align="center">
 <h2>📈 Github Statistics 📉</h2>
