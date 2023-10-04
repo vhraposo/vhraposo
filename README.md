@@ -17,9 +17,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,java,react,nodejs,)](#)
 
 
- 🎓 Atualmente estou estudando no projeto "Explorer" da  Rocketseat.
- 🎓 Sou graduado em Sistemas para internet.
- 📫 Contacte-me no email: victorhcraposo@gmail.com
+ 🎓 Atualmente estou estudando no projeto "Explorer" da  Rocketseat. <br>
+ 🎓 Sou graduado em Sistemas para internet. <br>
+ 📫 Contacte-me no email: victorhcraposo@gmail.com <br>
 
     
   
