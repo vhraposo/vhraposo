@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=BD93F9&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hello,+my+name+is+Victor+Raposo;I'm+25+years+old;I'm+from+Londrina,+Brazil;I'm+an+Application+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=BD93F9&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hello,+my+name+is+Victor+Raposo;I'm+26+years+old;I'm+from+Londrina,+Brazil;I'm+an+Application+Developer)](https://git.io/typing-svg)
 
 <div align="center">
 <h2>📈 Github Statistics 📉</h2>
@@ -17,8 +17,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,java,react,nodejs,)](#)
 
 
- 🎓 Atualmente estou estudando no projeto "Explorer" da  Rocketseat. <br>
- 🎓 Sou graduado em Sistemas para internet. <br>
+ 🎓 Explorer - Rocketseat.
+ 🎓 Sistemas para internet - Unicesumar. <br>
+ 🎓 Curso de especialização em Java - UFN. <br>
  📫 Contacte-me no email: victorhcraposo@gmail.com <br>
 
     
