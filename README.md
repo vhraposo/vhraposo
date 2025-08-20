@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,java,react,nodejs,)](#)
 
 
- 🎓 Explorer - Rocketseat.
+ 🎓 Explorer - Rocketseat. <br>
  🎓 Sistemas para internet - Unicesumar. <br>
  🎓 Curso de especialização em Java - UFN. <br>
  📫 Contacte-me no email: victorhcraposo@gmail.com <br>
